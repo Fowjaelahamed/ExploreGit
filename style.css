@@ -3,7 +3,8 @@ p{
     color: black;
     width: fit-content;
 }
-img{
+.image{
     height: 500px;
     width: 500px;
+    display: inline-flex;
 }
